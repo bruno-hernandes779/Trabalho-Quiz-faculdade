@@ -6,7 +6,7 @@ public class Main {
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);
 
-        System.out.println("Nome: SEU NOME COMPLETO");
+        System.out.println("Nome: Bruno Hernandes oliveira Silva");
         System.out.println("Professor: Brenno Pimenta da Costa");
         System.out.println("Faculdade: UNIFAN - Centro Universitário Alfredo Nasser");
         System.out.println("Tema: Óculos, Lentes e Saúde Visual");
